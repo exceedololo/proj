@@ -8,6 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Hello World");
         System.out.println("1001");
+        System.out.println("----");
 
         //guiiouio
     }

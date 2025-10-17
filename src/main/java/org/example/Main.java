@@ -23,4 +23,8 @@ public class Main {
         System.out.println(666);
         //guiiouio
     }
+
+    public static void doSomething(){
+        System.out.println("doSomething");
+    }
 }
